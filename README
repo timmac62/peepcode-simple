@@ -4,5 +4,6 @@ SimpleGit Ruby Library
 This library calls git commands and returns the output.
 
 TJM - following along with Scott's excellent read Git Internals Peepcode (peepcode-git.pdf)
+TJM - another change to test git commit without -m
 
 Author : Scott Chacon
