@@ -4,7 +4,10 @@ SimpleGit Ruby Library
 This library calls git commands and returns the output.
 
 TJM - following along with Scott's excellent read Git Internals Peepcode (peepcode-git.pdf)
-TJM - another change to test git commit without -m
+TJM - I read through most of Scott's book and tried his suggestions via the command line
+Much of this functionality is included in VS Code's git extension
+The Git History extension is very nice - select file in Explorer view, press F1 and type Git History
+This is extremely useful in aos_base!
 
 Recloning Scott's simplegit repositoru
 To put Scott's repository into my GitHub

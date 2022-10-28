@@ -13,7 +13,6 @@ spec = Gem::Specification.new do |s|
     s.require_path  =   "lib"
 end
 
-
 Rake::GemPackageTask.new(spec) do |pkg|
     pkg.need_tar = true
 end
