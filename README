@@ -6,4 +6,10 @@ This library calls git commands and returns the output.
 TJM - following along with Scott's excellent read Git Internals Peepcode (peepcode-git.pdf)
 TJM - another change to test git commit without -m
 
+TJM to put Scott's repository into my GitHub
+1. I created peepcode-simple --> https://github.com/timmac62/peepcode-simple.git
+2. g remote rename origin upstream
+3. g remote add origin https://github.com/timmac62/peepcode-simple.git
+4. g push origin master
+
 Author : Scott Chacon
