@@ -9,6 +9,7 @@ class SimpleGit
     command("git show #{treeish}")
   end
 
+
   private
   
     def command(git_cmd)
